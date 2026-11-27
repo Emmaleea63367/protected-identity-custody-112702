@@ -1,0 +1,4 @@
+{"seq":12,"delivery":"d-4","request":"rq4","revision":1,"recipient":"member-a","kind":"comparison","state":"received","received_at":12}
+{"seq":18,"delivery":"d-5","request":"rq5","revision":1,"recipient":"member-a","kind":"comparison","state":"queued","received_at":null}
+{"seq":22,"delivery":"d-6","request":"rq4","revision":1,"recipient":"member-a","kind":"withdrawal","state":"queued","received_at":null}
+{"seq":23,"delivery":"d-6","request":"rq4","revision":1,"recipient":"member-a","kind":"withdrawal","state":"received","received_at":22}

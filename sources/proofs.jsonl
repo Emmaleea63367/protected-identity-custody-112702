@@ -1,0 +1,8 @@
+{"seq":7,"proof":"proof-e1","custodian":"care-e","request":"rq4","revision":1,"token":"pair-46","approver":"protect-e","recipient":"member-a","state":"verified","fields":{}}
+{"seq":8,"proof":"proof-w1","custodian":"care-w","request":"rq4","revision":1,"token":"pair-46","approver":"protect-w","recipient":"member-a","state":"verified","fields":{}}
+{"seq":9,"proof":"proof-e2","custodian":"care-e","request":"rq5","revision":1,"token":"pair-27","approver":"protect-e","recipient":"member-a","state":"verified","fields":{}}
+{"seq":13,"proof":"proof-w2","custodian":"care-w","request":"rq5","revision":1,"token":null,"approver":"protect-w","recipient":"member-a","state":"unresolved","fields":{}}
+{"seq":16,"proof":"proof-w1","custodian":"care-w","request":"rq4","revision":1,"token":"pair-46","approver":"protect-w","recipient":"member-a","state":"withdrawn","fields":{}}
+{"seq":20,"proof":"proof-w3","custodian":"care-w","request":"rq4","revision":2,"token":"pair-82","approver":"protect-w","recipient":"member-b","state":"verified","fields":{}}
+{"seq":21,"proof":"proof-e3","custodian":"care-e","request":"rq4","revision":2,"token":"pair-84","approver":"protect-e","recipient":"member-b","state":"verified","fields":{}}
+{"seq":25,"proof":"proof-e4","custodian":"care-e","request":"rq6","revision":1,"token":"pair-44","approver":"protect-e","recipient":"member-b","state":"verified","fields":{"contact_ref":"contact-73"}}

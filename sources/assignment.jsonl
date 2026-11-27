@@ -1,0 +1,4 @@
+{"seq":10,"case":"case-m","holder":"lead-1","role":"requester","from":0,"until":15}
+{"seq":11,"case":"case-m","holder":"member-a","role":"recipient","from":0,"until":15}
+{"seq":14,"case":"case-m","holder":"lead-2","role":"requester","from":15,"until":80}
+{"seq":15,"case":"case-m","holder":"member-b","role":"recipient","from":15,"until":80}

@@ -1,0 +1,4 @@
+{"seq":5,"request":"rq4","revision":1,"case":"case-m","left":["care-e","ref-11",1],"right":["care-w","witness-2",1],"purpose":"contact-safety","applicant":"lead-1","recipient":"member-a","release":[]}
+{"seq":6,"request":"rq5","revision":1,"case":"case-m","left":["care-e","ref-11",1],"right":["care-w","ref-11",1],"purpose":"separate-contact","applicant":"lead-1","recipient":"member-a","release":[]}
+{"seq":19,"request":"rq4","revision":2,"case":"case-m","left":["care-e","ref-11",1],"right":["care-w","witness-2",2],"purpose":"contact-safety","applicant":"lead-2","recipient":"member-b","release":[]}
+{"seq":24,"request":"rq6","revision":1,"case":"case-m","left":["care-e","ref-11",1],"right":["care-w","ref-11",1],"purpose":"authorized-contact","applicant":"lead-2","recipient":"member-b","release":["contact_ref"]}
